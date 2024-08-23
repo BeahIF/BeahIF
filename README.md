@@ -1,4 +1,11 @@
-## Hi there 👋
+## Oii pessoal!  👋
+Sou a Beatrz, de Rio Grande - RS, estudante do último ano de Engenharia da Computação na FURG e desenvolvedora Nodejs com 3 anos de experiência no mercado.
+| Linguagem | Ícone |
+|-----------|-------|
+| JavaScript | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
+| TypeScript | ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) |
+| Python     | ![Python](https://img.icons8.com/color/48/000000/python.png) |
+| React      | ![React](https://img.icons8.com/color/48/000000/react-native.png) |
 
 <!--
 **BeahIF/BeahIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
