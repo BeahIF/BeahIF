@@ -1,6 +1,6 @@
 ## Oii pessoal!  👋
-Sou a Beatriz, de Rio Grande - RS, estudante do último ano de Engenharia da Computação na FURG e desenvolvedora Nodejs com 3 anos de experiência no mercado.
-Atualmente, estou focada em me aperfeiçoar no desenvolvimento backend, com ênfase em tecnologias como NestJS e TypeORM, para construir aplicações robustas e escaláveis. Estou cursando a Imersão Javascript e AWS da Reprograma. Além disso, estou iniciando minha jornada no desenvolvimento frontend, aprendendo React, com o objetivo de me tornar fullstack.
+Sou a Beatriz, de Rio Grande - RS, estudante do mestrado em Engenharia da Computação na FURG e desenvolvedora Nodejs com 3 anos de experiência no mercado.
+Atualmente, estou focada em me aperfeiçoar no desenvolvimento backend, com ênfase em tecnologias como NestJS e TypeORM, para construir aplicações robustas e escaláveis. Estou iniciando minha jornada profissional no desenvolvimento frontend na Flecto.
 
 | Linguagens principais que já trabalhei
 |-----------
